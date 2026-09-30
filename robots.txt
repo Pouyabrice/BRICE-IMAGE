@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://briceworld.github.io/BRICE-IMAGE/sitemap.xml
